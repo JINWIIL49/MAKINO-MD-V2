@@ -2,18 +2,18 @@
 <a href="https://github.com/anonphoenix007"><img title="Author" src="https://img.shields.io/badge/Author_Of-MAKINO_V2-black"></a>
 
 <p align="center">  
-  <a href="https://wa.me/2347080968564">
-    <img alt="X-2.0" height="300" src="https://telegra.ph/file/7aa528767ed96ddc17bc2.jpg">
+  <a href="https://wa.me/254769365617">
+    <img alt="X-2.0" height="300" src="https://i.imgur.com/6v8m5OD.jpeg">
     <h1 align="center">MAKINO-MD-V2</h1>
     <h4 align="center">Major Update.</h4>
     <h3 align="center">Buttons Added</h3>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/anonphoenix007"><img title="Author" src="https://img.shields.io/badge/Makino-MDv2-black?style=for-the-badge&logo=twitter"></a>
+<a href="https://github.com/JINWIIL49"><img title="Author" src="https://img.shields.io/badge/Makino-MDv2-black?style=for-the-badge&logo=twitter"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/anonphoenix007?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/anonphoenix007?label=Followers&style=social"></a>
+<a href="https://github.com/JINWIIL49?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/anonphoenix007?label=Followers&style=social"></a>
 <a href="https://github.com/anonphoenix007/MAKINO-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/anonphoenix007/MAKINO-MD-V2?&style=social"></a>
 <a href="https://github.com/anonphoenix007/MAKINO-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/anonphoenix007/MAKINO-MD-V2?style=social"></a>
 <a href="https://github.com/anonphoenix007/MAKINO-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/anonphoenix007/MAKINO-MD-V2?label=Watching&style=social"></a>
