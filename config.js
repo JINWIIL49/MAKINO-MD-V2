@@ -25,8 +25,8 @@ global.BotName = "🐦Makino-md-v2";
 global.packname = "JINWIIL 🕷️🕸️";                             //Do not change.
 global.author = "🐦 JINWIIL 🕷️🕸️ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";                               //Do not change.
 global.BotSourceCode = "https://github.com/JINWIIL49/MAKINO-MD-V2"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm "; 
-global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
+global.SupportGroupLink = "https://chat.whatsapp.com/BaZb47EGwHh4v9990YmtV0 "; 
+global.SupportGroupLink = "https://chat.whatsapp.com/BaZb47EGwHh4v9990YmtV0"; //Do not change!
 //global.dbase = process.env.DBASE || "";//Mongodb here
 global.AuthorWhatsapp = "https://wa.me/254769365617"; //Bot creator WhatsApp link,don't change or bot will not work.
 
