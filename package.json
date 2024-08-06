@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/anonphoenix007/MAKINO-MD-V2.git"
+        "url": "git+https://github.com/JINWIIL49/MAKINO-MD-V2.git"
     },
     "keywords": [
         "md-bot"
@@ -20,9 +20,9 @@
     "author": "JINWIIL 🕷️🕸️☠️",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/anonphoenix007/MAKINO-MD-V2/issues"
+        "url": "https://github.com/JINWIIL49/MAKINO-MD-V2 issues"
     },
-    "homepage": "https://github.com/anonphoenix007/MAKINO-MD-V2#readme",
+    "homepage": "https://github.com/JINWIIL49/MAKINO-MD-V2#readme",
     "devDependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
