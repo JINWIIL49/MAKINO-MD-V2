@@ -310,7 +310,7 @@ m.message.InteractiveResponseMessage.NativeFlowResponseMessage ||               
       "previewType": "PHOTO",
       "thumbnailUrl": ``,
       "thumbnail": fs.readFileSync(`./Assets/pic7.jpg`),
-      "sourceUrl": `https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K`}}},
+      "sourceUrl": `https://chat.whatsapp.com/BaZb47EGwHh4v9990YmtV0`}}},
       { quoted: m})
 	  }
 
